@@ -1,14 +1,17 @@
-# Sort and Find Median – Coding Test Solution
+# Median Calculator – Coding Test Solution
 
-This project implements a small command-line program that:
-1. Sorts a list of numbers using a custom sorting algorithm (Bubble Sort).
-2. Computes the median based on the provided pseudocode.
+This project implements the required `sortAndFindMedian` function based on the provided pseudocode.  
+A manual sorting algorithm is used, and the program offers both a simple user input interface and predefined test cases.
 
-The solution includes:
-- A manual sorting function (as required, no built-in sort)
-- A function to compute the median
-- Example usage
-- Optional user input mode
+---
 
+## Requirements (Completed)
 
+- Implement `sortAndFindMedian` based on pseudocode  
+- Implement a sorting algorithm manually (Bubble Sort)  
+- Program outputs the median  
+- Simple UI for entering arrays of numbers  
+- Includes predefined test cases  
+- Clean, readable code  
+- Code pushed to GitHub  
 
